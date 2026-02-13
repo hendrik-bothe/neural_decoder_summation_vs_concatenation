@@ -58,6 +58,8 @@ A single **Reference (original)** is shown once per sample.
     cursor: pointer;
     font-size: 1.05em;
   }
+
+  .page-header a.btn[href*="github.com"] { display: none !important; }
 </style>
 
 ---
